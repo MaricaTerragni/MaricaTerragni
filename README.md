@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaricaTerragni
-- 👀 I’m interested in learning to code with multiple languages.
-- 🌱 I’m currently a physics undergrad at the University of Milano - Bicocca.
+- 👀 Interested in learning to code with multiple languages.
+- 🌱 Physics - University of Milano - Bicocca.
 - 📫 You can reach me by sending me an email at maricaterragni@gmail.com.
 
 <!---
